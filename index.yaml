@@ -1,0 +1,77 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.3777+11:00"
+    description: A Helm chart for Kubernetes testing using the repor
+    digest: ac7b5ba1f76950adbda18680591dbe073069afe9a95b11729e7fc28be4810cb0
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+  helmpushdemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.383142+11:00"
+    description: A Helm chart for Kubernetes
+    digest: 4d7093575c3f3fd70c73c12f64e8ba9c4e4e9609426f03614b53db5e2a4f2ce9
+    name: helmpushdemo
+    type: application
+    urls:
+    - helm_demo_repo/helmpushdemo-0.1.0.tgz
+    version: 0.1.0
+  repotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.381532+11:00"
+    description: Repo Demo in the Helm using Chartmuseum. Change the version to 0.1.1
+    digest: d63f5005ed0d867bcb428905238c6bccb88f28cb53161cb1f0d54d33047e0b69
+    name: repotest
+    type: application
+    urls:
+    - chartstorage/repotest-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.384583+11:00"
+    description: Repo Demo in the Helm using Chartmuseum. Change the version to 0.1.1
+    digest: d63f5005ed0d867bcb428905238c6bccb88f28cb53161cb1f0d54d33047e0b69
+    name: repotest
+    type: application
+    urls:
+    - helm_demo_repo/repotest-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.379653+11:00"
+    description: Repo Demo in the Helm using Chartmuseum.
+    digest: 3fca93a0fe9a341533a4ed6fe16c493b16f2310d096976de2a7b8f11be860605
+    name: repotest
+    type: application
+    urls:
+    - chartstorage/repotest-0.1.0.tgz
+    version: 0.1.0
+  repotest2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.382196+11:00"
+    description: A Helm chart for Kubernetes
+    digest: 5e1baaae93312add532ad9e4ede9af77e0cef375201e6cf717cdcdf2ba0edd4f
+    name: repotest2
+    type: application
+    urls:
+    - chartstorage/repotest2-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-10T13:46:57.385383+11:00"
+    description: A Helm chart for Kubernetes
+    digest: 5e1baaae93312add532ad9e4ede9af77e0cef375201e6cf717cdcdf2ba0edd4f
+    name: repotest2
+    type: application
+    urls:
+    - helm_demo_repo/repotest2-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-10T13:46:57.376945+11:00"
